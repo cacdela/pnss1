@@ -1,0 +1,23 @@
+{
+    "name": "cacdela/pnss1",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "core/Src/",
+            "": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cacdela",
+            "email": "vladimircacdela@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+
+     }
+
+ }
